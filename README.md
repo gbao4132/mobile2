@@ -1,1 +1,2 @@
-# mobile2
+## Kết quả
+![alt](mobile2.jpg)
